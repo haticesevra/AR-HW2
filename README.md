@@ -8,9 +8,11 @@ You have the change fallowing variables while running the program with different
 <br /><br /><br />
 
 
+I implement <b> (Q = R*P + T ) </b>formula to code <br/>
+After finding best R and T values transformed all referenced (black) points (red spheres)  <br/><br/>
 *BLACK SPHERES -> Point of first file (referenced points)<br />
-*WHITE SPHERE -> Point of second file (target points)<br />
-*RED SPHERE -> Transformed points
+*WHITE SPHERES -> Point of second file (target points)<br />
+*RED SPHERES -> Transformed points
 <br /><br /><br />
 
 OUTPUT
