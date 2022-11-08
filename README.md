@@ -4,9 +4,7 @@ Hatice Sevra GENÇ 1801042611 - CSE462 AR Homework 2
 You have the change fallowing variables while running the program with different file<br />
       NUM_OF_POINTS's value, coordinates1 and coordinates2's first size parameter
   
-  <br />
-  ![image](https://user-images.githubusercontent.com/83041983/200613727-db4962d8-72ce-45b6-af01-1c1ce95934b1.png)
-
+![image](https://user-images.githubusercontent.com/83041983/200616013-57c721b2-9729-4193-b06b-563d22a44ad9.png)
 <br /><br /><br />
 
 
@@ -18,10 +16,9 @@ You have the change fallowing variables while running the program with different
 OUTPUT
 
 
-<br />
-![image](https://user-images.githubusercontent.com/83041983/200612884-fe7469b9-1c44-4166-aff2-23df4c701c1f.png)
 
-<br /><br />
+![image](https://user-images.githubusercontent.com/83041983/200615872-86068612-761e-404c-a92d-e5f183571d7c.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/83041983/200613032-6060aad6-1ec9-4c39-ab66-e944c3da7241.png)
